@@ -10,9 +10,8 @@ shopt -s histappend
 shopt -s histverify
 export HISTCONTROL=ignoreboth
 
-# Default command line prompt.
-PROMPT_DIRTRIM=2
-PS1='user💀localhost>[ \[\e[0;32m\]\w\[\e[0m\] \[\e[0;97m\]\]]~ $ '
+PS1='┌────(Krishna💀localhost)-(\[\e[0;32m\]\w\[\e[0m\]\[\e[0;97m\])
+└──>>> '
 
 # Handles nonexistent commands.
 # If user has entered command which invokes non-available
