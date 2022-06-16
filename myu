@@ -9,7 +9,7 @@ apt install figlet -y
 
 apt install openssl -y
 
-gem install lolcat -y
+gem install lolcat
 
 cd /data/data/com.termux/files/usr/etc
 
