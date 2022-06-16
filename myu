@@ -11,6 +11,8 @@ apt install openssl -y
 
 gem install lolcat
 
+cd
+
 cd ../usr/etc
 
 rm motd bash.bashrc profile
