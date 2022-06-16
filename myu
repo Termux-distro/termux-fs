@@ -21,4 +21,4 @@ mv $HOME/termux-fs/bash.bashrc /data/data/com.termux/files/usr/etc
 
 mv $HOME/termux-fs/profile /data/data/com.termux/files/usr/etc
 
-
+exit
