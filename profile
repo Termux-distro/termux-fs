@@ -17,5 +17,5 @@ if [ "$BASH" ]; then
         fi
 fi
 
-figlet Krishna 💀  LocalHost |lolcat
+figlet user 💀  LocalHost |lolcat
 date |lolcat
