@@ -21,4 +21,11 @@ mv $HOME/termux-fs/bash.bashrc /data/data/com.termux/files/usr/etc
 
 mv $HOME/termux-fs/profile /data/data/com.termux/files/usr/etc
 
-exit
+echo "You can change "yourname@localhost" " |lolcat
+echo "change banner just type nano ../usr/etc/profile and 
+change yourname to your real name " |lolcat
+
+echo " you can change name in bash.bashrc 
+just type nano ../usr/etc/bash.bashrc and 
+Enter your real name next to
+ where yourname is written
