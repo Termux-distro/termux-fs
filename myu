@@ -11,9 +11,9 @@ apt install openssl -y
 
 gem install lolcat
 
-cd /data/data/com.termux/files/usr/etc
+cd ../usr/etc
 
-rm -rf motd bash.bashrc profile
+rm motd bash.bashrc profile
 
 cd 
 
