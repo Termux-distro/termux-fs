@@ -7,6 +7,8 @@ apt install ruby -y
 
 apt install figlet -y 
 
+apt install openssl -y
+
 gem install lolcat -y
 
 cd /data/data/com.termux/files/usr/etc
