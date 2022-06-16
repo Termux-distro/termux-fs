@@ -1,0 +1,22 @@
+
+termux-setup-storage 
+
+apt update
+
+apt install ruby
+
+apt install figlet 
+
+gem install lolcat
+
+cd /data/data/com.termux/files/usr/etc
+
+rm -rf motd bash.bashrc profile
+
+cd 
+
+mv $HOME/termux-fs/bash.bashrc /data/data/com.termux/files/usr/etc
+
+mv $HOME/termux-fs/profile /data/data/com.termux/files/usr/etc
+
+
