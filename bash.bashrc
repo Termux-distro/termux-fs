@@ -10,7 +10,7 @@ shopt -s histappend
 shopt -s histverify
 export HISTCONTROL=ignoreboth
 
-PS1='┌────(Krishna💀localhost)-(\[\e[0;32m\]\w\[\e[0m\]\[\e[0;97m\])
+PS1='┌────(yourname💀localhost)-(\[\e[0;32m\]\w\[\e[0m\]\[\e[0;97m\])
 └──>>> '
 
 # Handles nonexistent commands.
