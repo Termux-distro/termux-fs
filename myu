@@ -28,4 +28,4 @@ change yourname to your real name " |lolcat
 echo " you can change name in bash.bashrc 
 just type nano ../usr/etc/bash.bashrc and 
 Enter your real name next to
- where yourname is written
+ where yourname is written" |lolcat
