@@ -9,6 +9,8 @@ apt install figlet -y
 
 apt install openssl -y
 
+apt install wget -y
+
 gem install lolcat
 
 cd
@@ -21,7 +23,7 @@ mv $HOME/termux-fs/bash.bashrc /data/data/com.termux/files/usr/etc
 
 mv $HOME/termux-fs/profile /data/data/com.termux/files/usr/etc
 
-echo "You can change "yourname@localhost" " |lolcat
+echo "You can change "yourname@localhost " " |lolcat
 echo "change banner just type nano ../usr/etc/profile and 
 change yourname to your real name " |lolcat
 
