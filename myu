@@ -31,3 +31,6 @@ echo " you can change name in bash.bashrc
 just type nano ../usr/etc/bash.bashrc and 
 Enter your real name next to
  where yourname is written" |lolcat
+
+echo "[!] Warning= Do not upgrade your termux system Otherwise 
+you lost All the configuration." |lolcat 
